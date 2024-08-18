@@ -5,7 +5,7 @@
                 if (basename($_SERVER['PHP_SELF']) == "login.php") {
                     echo "<li><a href='pagine/registrazione.php'>Registrati</a></li>";
                 } elseif (basename($_SERVER['PHP_SELF']) == "registrazione.php") {
-                    echo "<li><a href='../login.php'>Login</a></li>";
+                    echo "<li><a href='login.php'>Login</a></li>";
                 } else {
                     if (basename($_SERVER['PHP_SELF']) == "home.php") {
                         echo "<li id='active'>Home</li>";
