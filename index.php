@@ -1,11 +1,4 @@
-<?php
-	session_start();
-    if(!isset($_SESSION['username'])){ 
-		header('location: home.php');
-	}
-    $username = $_SESSION["username"];
 
-?>
 
 
 <!DOCTYPE html>
