@@ -11,7 +11,7 @@
 </head>
 <body>
     <?php
-        require("nav.php");
+        require("pagine/nav.php");
     ?>
     <div class="contenuto">
         <h1>online store</h1>
