@@ -15,7 +15,7 @@
                     if (basename($_SERVER['PHP_SELF']) == "dati_personali.php") {
                         echo "<li id='active'>Dati personali</li>";
                     } else {
-                        echo "<li><a href='dati_personali.php'>Dati personali</a></li>";
+                        echo "<li><a href='pagine/dati_personali.php'>Dati personali</a></li>";
                     }
                     if (basename($_SERVER['PHP_SELF']) == "ritira.php") {
                         echo "<li id='active'>Ritira</li>";

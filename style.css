@@ -70,3 +70,7 @@ ul.navlinks li a{
 ul.navlinks li a:hover{
 	color: white;
 }
+
+.grid {display: flex; flex-wrap: wrap; width: 100%;}
+.card {width: 32%; margin: 0.666%; border: 1px solid gray; border-radius: 5px; padding: 5px;}
+.card img {width: 100%;}
