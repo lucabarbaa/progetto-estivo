@@ -14,5 +14,9 @@
         require("pagine/nav.php");
     ?>
     <div class="contenuto">
-        <h1>online store</h1>
+        <h1 style="text allign: center, margin-top:0px">online store</h1>
 		<h2>home page</h2>
+    <?php
+        require("pagine/footer.php");
+    ?>
+</body>
