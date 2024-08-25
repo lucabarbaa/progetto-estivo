@@ -12,6 +12,7 @@
     ?>
     <div class="contenuto">
         <h1 style="text-align: center">Sneakers</h1>
+        <a href="carrello.php">Clicca qui per acquistare</a>
         <div class="grid">
             <div class="card" id="">
                 <img src="immagini/j1.jpeg" alt="">

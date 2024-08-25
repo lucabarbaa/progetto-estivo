@@ -92,3 +92,42 @@ ul.navlinks li a:hover{
 input{
 	font-family: 'Open Sans', Verdana, 'DejaVu Sans', Arial, sans-serif;
 }
+
+
+
+
+
+.elenco_cose{
+	text-align: left;
+	margin: auto;
+}
+.card-cosa {
+    display: flex;
+    border: 1.5px solid #be935b;
+    border-radius: 3px;
+    margin: 10px 0px;
+    padding: 5px;
+}
+.card-cosa__img {
+    width: 25%;
+}
+.card-cosa__img img {
+    width: 100%;
+}
+.card-cosa__testo {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.link-scheda {
+    font-size: 10px;
+}
+
+.immagine-fr {
+    float: right;
+    width: 30%;
+}
+.immagine-fr img {
+    width: 100%;
+    margin-left: 10px;
+}
