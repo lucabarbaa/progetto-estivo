@@ -32,17 +32,17 @@
             <div class="card" id="">
                 <img src="immagini/denim.jpeg" alt="">
                 <h3>hoodie Denim Tears Cotton Wreath </h3>
-                <p>Le adidas Yeezy Desert Boot Rock presentano una tomaia beige in mesh con inserti in nubuck e suede tono su tono. La suola scanalata abbinata garantisce trazione e stabilità.</p>
+                <p>Il tessuto della felpa presenta una stampa di ghirlande floreali, resa in serigrafia con inchiostro a sbuffo nero.</p>
             </div>
             <div class="card" id="">
                 <img src="immagini/gap.jpeg" alt="">
                 <h3>Felpa Yeezy Gap</h3>
-                <p>Le adidas Yeezy Desert Boot Rock presentano una tomaia beige in mesh con inserti in nubuck e suede tono su tono. La suola scanalata abbinata garantisce trazione e stabilità.</p>
+                <p> La hoodie Yeezy x GAP Hoodie è uscita il 29 ettembre 2021, con un prezzo retail di 90 $.</p>
             </div>
             <div class="card" id="">
                 <img src="immagini/uniqlo.jpeg" alt="">
                 <h3>KAWS x Uniqlo Warhol</h3>
-                <p>Le adidas Yeezy Desert Boot Rock presentano una tomaia beige in mesh con inserti in nubuck e suede tono su tono. La suola scanalata abbinata garantisce trazione e stabilità.</p>
+                <p>t shirt nata da una collaborazione tra KAWS e uniqlo warhol.</p>
             </div>
         </div>
     </div>
