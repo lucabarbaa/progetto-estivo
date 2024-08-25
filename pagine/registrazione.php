@@ -17,16 +17,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../style.css">
-    <title>Biblioteca-Registrazione</title>
+    <title>Online store-Registrazione</title>
 </head>
 <body>
     <?php
         require("nav.php");
     ?>
     <div class="contenuto">
-        <h1>Biblioteca-Registrazione</h1>
+        <h1>Online store-Registrazione</h1>
         <form action="" method="post">
-            <!-- da far vedere come ho cambiato lo stile per gli input -->
             <table class="tab_input tab_registrazione">
                 <tr>
                     <td><label for="username">Username: </label></td>
@@ -82,7 +81,7 @@
                     $myquery = "SELECT username 
 						    FROM utenti 
 						    WHERE username='$username'";
-                    //echo $myquery;
+                    
 
                     $ris = $conn->query($myquery) or die("<p>Query fallita!</p>");
                     if ($ris->num_rows > 0) {

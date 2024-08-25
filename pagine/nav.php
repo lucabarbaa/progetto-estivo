@@ -12,25 +12,26 @@
                     } else {
                         echo "<li><a href='../index.php'>Home</a></li>";
                     }
+                    
+                    if (basename($_SERVER['PHP_SELF']) == "sneakers.php") {
+                        echo "<li id='active'>Sneakers</li>";
+                    } else {
+                        echo "<li><a href='sneakers.php'>Sneakers</a></li>";
+                    }
+                    if (basename($_SERVER['PHP_SELF']) == "vestiti.php") {
+                        echo "<li id='active'>Vestiti</li>";
+                    } else {
+                        echo "<li><a href='vestiti.php'>Vestiti</a></li>";
+                    }
                     if (basename($_SERVER['PHP_SELF']) == "dati_personali.php") {
                         echo "<li id='active'>Dati personali</li>";
                     } else {
                         echo "<li><a href='pagine/dati_personali.php'>Dati personali</a></li>";
                     }
-                    if (basename($_SERVER['PHP_SELF']) == "ritira.php") {
-                        echo "<li id='active'>Ritira</li>";
+                    if (basename($_SERVER['PHP_SELF']) == "login.php") {
+                        echo "<li id='active'>Login</li>";
                     } else {
-                        echo "<li><a href='ritira.php'>Ritira</a></li>";
-                    }
-                    if (basename($_SERVER['PHP_SELF']) == "riconsegna.php") {
-                        echo "<li id='active'>Riconsegna</li>";
-                    } else {
-                        echo "<li><a href='riconsegna.php'>Riconsegna</a></li>";
-                    }
-                    if (basename($_SERVER['PHP_SELF']) == "logout.php") {
-                        echo "<li id='active'>Logout</li>";
-                    } else {
-                        echo "<li><a href='logout.php'>Logout</a></li>";
+                        echo "<li><a href='pagine/login.php'>Login</a></li>";
                     }
                 }
             ?>

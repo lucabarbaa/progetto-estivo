@@ -12,14 +12,14 @@
 }
 
 .footer {
-	position: fixed;
+
 	left: 0;
 	bottom: 0;
 	width: 100%;
 	background-color: #259c2d;
-	border-top: 1.5px solid #b48648;
+	border-top: 1.5px solid #fffdd0;
 	box-shadow: 1px 0px 4px black;
-	color: #cec0af;
+	color: #fffdd0;
 	font-size: 9px;
 	text-align: center;
 	padding: 10px;
@@ -74,3 +74,21 @@ ul.navlinks li a:hover{
 .grid {display: flex; flex-wrap: wrap; width: 100%;}
 .card {width: 32%; margin: 0.666%; border: 1px solid gray; border-radius: 5px; padding: 5px;}
 .card img {width: 100%;}
+
+
+
+#tab_dati_personali{
+	/* width: 500px; */
+	text-align: left;
+	margin: auto;
+}
+.tab_input{
+	text-align: left;
+	margin: auto;
+}
+.input_dati_personali{
+	width: 300px;
+}
+input{
+	font-family: 'Open Sans', Verdana, 'DejaVu Sans', Arial, sans-serif;
+}

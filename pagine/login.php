@@ -16,7 +16,7 @@
         require("nav.php");
     ?>
     <div class="contenuto">
-        <h1>Biblioteca Online</h1>
+        <h1>Online store</h1>
 		<h2>Pagina di Login</h2>
 
         <form action="" method="post">
