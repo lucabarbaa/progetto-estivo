@@ -98,7 +98,7 @@
 						    $conn->close();
 
                             echo "Registrazione effettuata con successo!<br>sarai ridirezionato alla home tra 3 secondi.";
-                            header('Refresh: 3; URL=home.php');
+                            header('Refresh: 3; URL=index.php');
 
                         } else {
                             echo "Non è stato possibile effettuare la registrazione per il seguente motivo: " . $conn->error;

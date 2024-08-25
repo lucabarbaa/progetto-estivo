@@ -16,12 +16,12 @@
                     if (basename($_SERVER['PHP_SELF']) == "sneakers.php") {
                         echo "<li id='active'>Sneakers</li>";
                     } else {
-                        echo "<li><a href='sneakers.php'>Sneakers</a></li>";
+                        echo "<li><a href='pagine/sneakers.php'>Sneakers</a></li>";
                     }
                     if (basename($_SERVER['PHP_SELF']) == "vestiti.php") {
                         echo "<li id='active'>Vestiti</li>";
                     } else {
-                        echo "<li><a href='vestiti.php'>Vestiti</a></li>";
+                        echo "<li><a href='pagine/vestiti.php'>Vestiti</a></li>";
                     }
                     if (basename($_SERVER['PHP_SELF']) == "dati_personali.php") {
                         echo "<li id='active'>Dati personali</li>";

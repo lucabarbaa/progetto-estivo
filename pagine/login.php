@@ -51,7 +51,7 @@
                     $_SESSION["username"] = $username;
 
                     $conn->close();
-					header("location: pagine/home.php");
+					header("location: ../index.php");
                 }
             }
         ?>
