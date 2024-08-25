@@ -30,14 +30,19 @@
                 <p>Le adidas Yeezy Desert Boot Rock presentano una tomaia beige in mesh con inserti in nubuck e suede tono su tono. La suola scanalata abbinata garantisce trazione e stabilità.</p>
             </div>
             <div class="card" id="">
-                <img src="immagini/boots.jpeg" alt="">
-                <h3>yeezy desert boot</h3>
-                <p>Le adidas Yeezy Desert Boot Rock presentano una tomaia beige in mesh con inserti in nubuck e suede tono su tono. La suola scanalata abbinata garantisce trazione e stabilità.</p>
+                <img src="immagini/wet.jpeg" alt="">
+                <h3>Jordan 4 Retro SE Paris Olympics Wet Cement</h3>
+                <p>rilasciate il 27 luglio 2024, per un prezzo al dettaglio di $ 225</p>
             </div>
             <div class="card" id="">
-                <img src="immagini/boots.jpeg" alt="">
-                <h3>yeezy desert boot</h3>
-                <p>Le adidas Yeezy Desert Boot Rock presentano una tomaia beige in mesh con inserti in nubuck e suede tono su tono. La suola scanalata abbinata garantisce trazione e stabilità.</p>
+                <img src="immagini/giallo.jpeg" alt="">
+                <h3>Air Jordan 1 Low OG x Travis Scott canary</h3>
+                <p>Ti presentiamo l'ultima collab tra il brand Jordan e Travis Scott. Questa AJ1 in edizione speciale rende omaggio ai colori del liceo frequentato dall'icona dell'hip-hop a Missouri City, in Texas.</p>
+            </div>
+            <div class="card" id="">
+                <img src="immagini/new.jpeg" alt="">
+                <h3>New Balance 1906D Protection Pack white</h3>
+                <p> ​Le sneakers 1906D Protection Pack bianco presentano un'intersuola reattiva ABZORB e una suola N-ERGY che offre assorbimento degli urti</p>
             </div>
         </div>
     </div>

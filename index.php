@@ -36,22 +36,22 @@
         <h2>abbigliamento</h2><a href="pagine/vestiti">vedi altro...</a>
         <div class="grid">
             <div class="card" id="">
-                <img src="immagini/j1.jpeg" alt="">
-                <h3>jordan 1 lost and found</h3>
-                <p>Air Jordan 1 2022 Chicago (aka "Lost & Found") dropped on November 19, 2022 · Retail price is $180 for adults</p>
+                <img src="immagini/fear.jpeg" alt="">
+                <h3>Fear of God Essential hoddie</h3>
+                <p>una gamma meticolosamente curata di capi dai toni neutri e pezzi fondamentali progettati per migliorare e completare la collezione primaria dell'iconico marchio streetwear.</p>
             </div>
             <div class="card" id="sciliar">
-                <img src="../immagini/sciliar_da_san_valentino_siusi.jpg" alt="">
-                <h3>sciliar</h3>
-                <p>Lo Sciliar, parte del gruppo del Catinaccio, visto da Siusi (Calstelrotto), nei pressi della chiesa di San Valentino</p>
+                <img src="../immagini/travis.jpeg" alt="">
+                <h3>jordan hoodie</h3>
+                <p>l brand Jordan ti invita a rappresentare una leggenda artistica in divenire insieme al giocatore di basket più leggendario della storia. Decenni dopo che il talento e lo stile di gioco impetuoso di MJ hanno portato il basket verso vette mai viste prima, la creatività di Scott ha influenzato la cultura musicale e lo streetwear con innovazione e passione.</p>
             </div>
-            <div class="card" id="sassolungo">
-                <img src="../immagini/sassolungo.jpg" alt="">
-                <h3>sassolungo</h3>
-                <p>Il gruppo del Sassolungo con indicazione delle principali vette</p>
+            <div class="card" id="">
+                <img src="../immagini/tyler.jpeg" alt="">
+                <h3>supreme x tyler the creator</h3>
+                <p>Photo Tee è una t-shirt esclusiva con la foto iconica del rapper Tyler, the Creator stampata sul petto.</p>
             </div>
         </div>
-        <h3>chi siamo</h3>
+        <h2 style="text-align: center">chi siamo</h2>
         <p>la piattaforma di riferimento per acquistare e vendere sneakers, abbigliamento streetwear, accessori e oggetti da collezione. Siamo più di un semplice negozio: siamo un marketplace dinamico, dove domanda e offerta si incontrano per stabilire il valore reale dei prodotti più ambiti. La nostra missione è garantire trasparenza, autenticità e accesso globale a modelli esclusivi e rari.</p>
     </div>
     <?php
